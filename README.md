@@ -1,4 +1,4 @@
-# demo123
+# GIT Basics
 Git Commands
 Basics
 git add is a command used to add a file that is in the working directory to the staging area.
@@ -57,5 +57,8 @@ git diff file name                              ->>to show file changes
 resolve conflict
 git merge tim branch
 
-Setting ->Developer tools->tokens ->Gernerate  
+Setting ->Developer Setting->Personal access tokens ->Generate new token ->Fill details->Generate
+https://www.youtube.com/watch?v=tk4s7o-ZGhk
+https://www.youtube.com/watch?v=uFaYgSVzy3w
+
 
