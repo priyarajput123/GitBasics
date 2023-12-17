@@ -56,6 +56,23 @@ git diff file name                              ->>to show file changes
 
 resolve conflict
 git merge tim branch
+git merge tim branch                               resolve conflict
+Git – subversion control /basically set of rules /u can maintain ur history of code in text/it can track everything  & pull the code
+Git HUB – which ur store ur code on cloud – secure /public /private
+We send our code from local maching to remote i.e cloud  thoughr help of GIT 
+Store ur code on Cloud (Secure) Private/Public
+---------------------------------------------
+Create folder-  mkdir
+Cd /Documents
+Mkdir CoreJavaATBX
+Ls
+Open intellije - > create new empty project->Local -> 
+First class ->create package src ->right click-> ceate packaha 17dec-> Lab01 java file
+Git init
+Pwd – currect directory
+ 
+Snapschot  git has taken before code is pushed
+$ git branch -m master main                  ->> to come out of master branch
 
 Setting ->Developer Setting->Personal access tokens ->Generate new token ->Fill details->Generate
 https://www.youtube.com/watch?v=tk4s7o-ZGhk
